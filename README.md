@@ -14,5 +14,5 @@
 ![img.png](img.png)
 
 РЕЩЕНИЕ:\
-Функции описаны в папке internal\
+Функции описаны в папке internal/exercises\
 Main файл в в папке cmd
